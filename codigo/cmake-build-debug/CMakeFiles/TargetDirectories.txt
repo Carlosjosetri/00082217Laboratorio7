@@ -1,0 +1,3 @@
+C:/Users/PC/Downloads/-TSC-Laboratorio7-NS2SD_Source_Code-master/cmake-build-debug/CMakeFiles/_TSC_Laboratorio7_NS2SD_Source_Code_master.dir
+C:/Users/PC/Downloads/-TSC-Laboratorio7-NS2SD_Source_Code-master/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/PC/Downloads/-TSC-Laboratorio7-NS2SD_Source_Code-master/cmake-build-debug/CMakeFiles/rebuild_cache.dir
